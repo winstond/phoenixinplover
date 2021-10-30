@@ -31,13 +31,13 @@ With a working Plover, and having followed the above steps, you should be able t
 
 ## A few quick explanations in case you are interested.
 1. **Phoenix Stenotype**: Why are we changing Plover from "English Stenotype" to "Phoenix Stenotype".
-Many Phoenix users have found that the orthography rules in the default engine cause errors for some Phoenix translations.  The "Phoenix Stenotype" resolves the majority of these issues.  You may occassionally find a rare word that doesn't translate quite as it should.  If so, add a full definition for the word to your personal dictionary to fix it, but those should be rare!
+Many Phoenix users have found that the orthography rules in the default engine cause errors for some Phoenix translations.  The "Phoenix Stenotype" resolves the majority of these issues.  You may occassionally find a rare word that doesn't translate quite as it should.  If so, add a full definition for the word to your personal dictionary to fix it, but those should be rare!  On another note, it also removes the "automatic suffix folding" feature (hard to explain, but not helpful for Phoenix users).
 2. **AddIns**: What are the "plover-retro-text-transform" and "plover-number-format" add-in for?
 Phoenix has some strokes that automatically format what you just stroked as currency, a phone number, a social security number, etc.  There are other strokes that do things like automatically format the last few words as title case.  The default Phoenix dictionary has definitions that work in CaseCAT, but not Plover.  These plugins allow for alternative strokes to work in Plover
 3. **Phoenix-fix Dictionary**: What is the "phoenix-fix" dictionary for?
 This dictionary (compiled by user Volensia), adds all the override definitions you need for Phoenix strokes to work as expected.  It fixes a variety of issues, for example
 - Adds the strokes to convert numbers to Roman
-- Adds fixes for fingerspelling
+- Adds fixes for fingerspelling (which may not be necessary with current version of Plover, but they don't hurt anything)
 - Adds some fixes for numbers that don't work correctly using just the base Phoenix dictionary
 - Adds strokes using retro-text-transfrom and number-format add ins as mentioned to make those strokes work
 - Defines additional useful command strokes for plover
