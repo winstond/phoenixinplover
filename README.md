@@ -46,4 +46,9 @@ This dictionary (compiled by user Volensia), adds all the override definitions y
 - Defines additional useful command strokes for plover
 - Defines many punctuations strokes that don't work correctly with the Phoenix theory dictionary out of the box
 
+## Some recommendations for learning Phoenix (using Plover or otherwise)
+1. Go to https://www.chicorymeadow.com/ to find course materials.  Phoenix has outstanding course materials available for purchase from the theory maintainer.
+(The Complete Textbook Set (includes books 1 and 2, plus reference book) is recommended - https://www.chicorymeadow.com/product/phoenix-theory-complete-textbook-set/)
+2. As mentioned, connect with the Plover community on Discord and join us in the Phoenix-Theory channel!
+
 
