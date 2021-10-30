@@ -1,15 +1,12 @@
 # phoenixinplover
 Quick start for using Pheonix Steno Theory in Plover
 
-#Want to use Phoenix Steno Theory in Plover Open Source Steno software?#
-Well you can!  Here are a few recommended steps to ensure you have no issues.
+Want to use Phoenix Steno Theory in Plover Open Source Steno software?<br />Well you can!  Here are a few recommended steps to ensure you have no issues.
 
 ## Assumptions:
 1. You know what Stenography is
-2. You have Plover installed and working
-a. No? 
-  - Find out https://www.openstenoproject.org/plover/ what Plover is.
-  - Find out how to get started with plover (includes link to installation guide).
+2. You have Plover installed and working<br />
+You don't? Find out what [Plover](https://www.openstenoproject.org/plover/) is and find out how to get started with plover (includes link to installation guide).
 3. You have enough experience with Stenography and have decided you want to use Pheonix Theory 
 
 ## Connect with the Community on Discord
@@ -19,14 +16,14 @@ Install Discord on your computer.  Then search for and join the "Plover" communi
 ## How to use Phoenix in Plover
 1. Get a starter Phoenix Dictionary from ?? (Plover supports rtf, or if you can get a Pheonix dictionary converted to native Plover json format all the better)
 2. Install Plover if needed, ensure it is working
-3. Install the following Add-Ins in Plover (see https://github.com/openstenoproject/plover/wiki/Plugins plugins for more info)
+3. Install the following Add-Ins in Plover (see [Plover Plugins](https://github.com/openstenoproject/plover/wiki/Plugins) for more info)
 - plover-phoenix-stenotype
 - plover-number-format
 - plover-retro-text-transform
 4. Configure your Plover to use "Phoenix Stenotype" system (In Plover, select Configure, go to the "System" tab, then select "Phoenix Stenotype".  The default was "English Stenotype")
 5. Add your base Phoenix Dictionary to the dictionaries list
 6. Disable the default Plover and Plover Command dictionaries
-7. Download the "phoenix_fix" dictionary to your computer from https://github.com/Volensia/volensia_steno_repo/blob/main/phoenix_fix.json and add this dictionary to plover.
+7. Download the [phoenix_fix dictionary](https://github.com/Volensia/volensia_steno_repo/blob/main/phoenix_fix.json) to your computer and add this dictionary to plover.
 (If you are using Chrome, to download select the "Raw" button, then right click on the page and select "download". It should download a file named "phoenix_fix.json".  Put this with your other dictionaries, then add it to Plover)
 8. Move the "phoenix_fix" dictionary **above** your Phoenix dictionary.
 
@@ -47,8 +44,8 @@ This dictionary (compiled by user Volensia), adds all the override definitions y
 - Defines many punctuations strokes that don't work correctly with the Phoenix theory dictionary out of the box
 
 ## Some recommendations for learning Phoenix (using Plover or otherwise)
-1. Go to https://www.chicorymeadow.com/ to find course materials.  Phoenix has outstanding course materials available for purchase from the theory maintainer.
-(The Complete Textbook Set (includes books 1 and 2, plus reference book) is recommended - https://www.chicorymeadow.com/product/phoenix-theory-complete-textbook-set/)
+1. Go to the official Phoenix Theory site at [Chicorymeadow.com](https://www.chicorymeadow.com/) to find course materials.  Phoenix has outstanding course materials available for purchase from the theory maintainer.
+(The [Complete Textbook Set](https://www.chicorymeadow.com/product/phoenix-theory-complete-textbook-set/) (includes books 1 and 2, plus reference book) is recommended)
 2. As mentioned, connect with the Plover community on Discord and join us in the Phoenix-Theory channel!
 
 
