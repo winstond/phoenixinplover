@@ -22,7 +22,7 @@ Install Discord on your computer.  Then search for and join the "Plover" communi
 - plover-retro-text-transform
 4. Configure your Plover to use "Phoenix Stenotype" system (In Plover, select Configure, go to the "System" tab, then select "Phoenix Stenotype".  The default was "English Stenotype")
 5. Add your base Phoenix Dictionary to the dictionaries list
-6. Disable the default Plover and Plover Command dictionaries
+6. Disable the default Plover dictionaries (called "main" and "commands")
 7. Download the [phoenix_fix dictionary](https://github.com/Volensia/volensia_steno_repo/blob/main/phoenix_fix.json) to your computer and add this dictionary to plover.
 (If you are using Chrome, to download select the "Raw" button, then right click on the page and select "download". It should download a file named "phoenix_fix.json".  Put this with your other dictionaries, then add it to Plover)
 8. Move the "phoenix_fix" dictionary **above** your Phoenix dictionary.
