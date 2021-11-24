@@ -1,5 +1,5 @@
 # phoenixinplover
-Quick start for using Pheonix Steno Theory in Plover
+Quick start for using Phoenix Steno Theory in Plover
 
 Want to use Phoenix Steno Theory in Plover Open Source Steno software?<br />Well you can!  Here are a few recommended steps to ensure you have no issues.
 
@@ -7,14 +7,14 @@ Want to use Phoenix Steno Theory in Plover Open Source Steno software?<br />Well
 1. You know what Stenography is
 2. You have Plover installed and working<br />
 You don't? Find out what [Plover](https://www.openstenoproject.org/plover/) is and find out how to get started with plover (includes link to installation guide).
-3. You have enough experience with Stenography and have decided you want to use Pheonix Theory 
+3. You have enough experience with Stenography and have decided you want to use Phoenix Theory 
 
 ## Connect with the Community on Discord
 First, connect with the community in Discord!  You are sure to have a question at some point.  There is a Discord Server for Plover with a channel for Phoenix Theory users there.
-Install Discord on your computer.  Then search for and join the "Plover" community.  Once you have joined, look for the "pheonix-theory" channel.
+Install Discord on your computer.  Then search for and join the "Plover" community.  Once you have joined, look for the "phoenix-theory" channel.
 
 ## How to use Phoenix in Plover
-1. Get a starter Phoenix Dictionary from ?? (Plover supports rtf, or if you can get a Pheonix dictionary converted to native Plover json format all the better)
+1. Get a starter Phoenix Dictionary from ?? (Plover supports rtf, or if you can get a Phoenix dictionary converted to native Plover json format all the better)
 2. Install Plover if needed, ensure it is working
 3. Install the following Add-Ins in Plover (see [Plover Plugins](https://github.com/openstenoproject/plover/wiki/Plugins) for more info)
 - plover-phoenix-stenotype
